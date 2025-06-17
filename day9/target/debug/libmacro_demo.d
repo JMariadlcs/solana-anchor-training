@@ -1,0 +1,1 @@
+/Users/chemadelacruzsanchez/Documents/Projects/Solana/solana-anchor-training/day9/target/debug/libmacro_demo.dylib: /Users/chemadelacruzsanchez/Documents/Projects/Solana/solana-anchor-training/day9/src/lib.rs
